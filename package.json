@@ -2,17 +2,17 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://NikolayLemehov.github.io/team-js",
+  "homepage": "https://prorochenko.github.io/group-project-2-events",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-js/"
+    "build": "parcel build src/*.html --public-url /group-project-2-events/"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Mykola Liemiekhov <nicklemster@gmail.com>",
+  "author": "Oleksandr Prorochenko <prorochenko.os@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
